@@ -1,1 +1,3 @@
 *.cvs
+.idea/*
+*.html
